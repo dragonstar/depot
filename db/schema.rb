@@ -19,6 +19,7 @@ ActiveRecord::Schema.define(:version => 20111215204239) do
 
   create_table "line_items", :force => true do |t|
     t.integer  "product_id"
+    t.integer  "cart_id"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

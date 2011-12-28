@@ -49,6 +49,7 @@ class LineItemsController < ApplicationController
     respond_to do |format|
       if @line_item.save
         format.html { redirect_to store_url }
+        format.js   {@current_item = @line_item}
         #format.html { redirect_to @line_item, :notice => 'Line item was successfully created.' }
         format.json { render :json => @line_item, :status => :created, :location => @line_item }
       else

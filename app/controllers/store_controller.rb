@@ -4,6 +4,7 @@ class StoreController < ApplicationController
     @product = Product.order(:title)
     increment_count
     @count = session[:counter]
+    @cart = current_cart
     puts('here i am')
     puts(@count)
   end

@@ -14,11 +14,14 @@
     <div id="columns">
       <div id="side"> <ul>
         <div id="cart"
-          <% if @cart.line_items.empty? %>
+          <% if @cart  %>
+            <% if @cart.line_items.empty? %>
                 style="display: none"
-          <% end %>
+            <% end %>
+
         >
-          <%= render @cart %>
+            <%= render @cart %>
+          <% end %>
         </div>
         <li><a href="http://localhost:3000/">Home</a></li>
         <li><a href="http://www..../faq">Questions</a></li>

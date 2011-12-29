@@ -834,7 +834,7 @@
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="moving cart to the sidebar - still CSS problems&#10;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="interim - order&#10;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -854,6 +854,7 @@
     <MESSAGE value="This is doing the 'fun' stuff at the end&#10;" />
     <MESSAGE value="This is part way to doing the 'fun stuff' at the end of carts = more to go&#10;" />
     <MESSAGE value="moving cart to the sidebar - still CSS problems&#10;&#10;" />
+    <MESSAGE value="interim - order&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

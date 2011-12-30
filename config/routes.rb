@@ -7,7 +7,14 @@ Depot::Application.routes.draw do
 
   get "store/index"
 
-  resources :products
+  #resources :products
+  # curl --silent http://localhost:3000/products/3/who_bought.atom
+  # in the command line is not working ###
+
+  resources :products do
+    #get :who_bought, :on => :member
+    get 'who_bought', :on => :member
+  end
 
   resources :line_items do
     put 'decrement', :on => :member

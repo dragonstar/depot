@@ -10,12 +10,12 @@ require File.expand_path('../application', __FILE__)
 Depot::Application.configure do
  config.action_mailer.delivery_method = :smtp
  config.action_mailer.smtp_settings = {
-     :address => "charles@seitech.co.uk",
-     :port => 110,
-     :domain => "domain.of.sender.net",
+     :address => "smtp.gmail.com",
+     :port => 995,
+     :domain => "http://localhost:3000/",
      :authentication => "plain",
-     :user_name => "pt34460812-1",
-     :password => "shockwav",
+     :user_name => "mooringmanager02",
+     :password => "shockwave",
      :enable_starttls_auto => true
 }
 end

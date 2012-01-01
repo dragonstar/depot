@@ -1,6 +1,6 @@
 # Load the rails application
 require File.expand_path('../application', __FILE__)
-
+Depot::Application.initialize!
 
 
 #Rails::Initializer.run do |config|
@@ -23,5 +23,5 @@ end
 
 require 'will_paginate'
 # Initialize the rails application
-Depot::Application.initialize!
+
 

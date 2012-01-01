@@ -11,13 +11,13 @@ Depot::Application.routes.draw do
     resources :line_items
     resources :carts
     resources :products do
-      get 'who_bought', :on => :member
+      get :who_bought, :on => :member
     end
-    #root to 'store#index', :as => 'store'
+    root :to => 'store#index', :as => 'store'
   end
 
 
-  get "store/index"
+  #get "store/index"
 
   #resources :products
   # curl --silent http://localhost:3000/products/3/who_bought.atom

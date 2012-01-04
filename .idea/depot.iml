@@ -37,26 +37,26 @@
     <orderEntry type="library" scope="PROVIDED" name="rack-cache (v1.0.3, ruby-1.8.7-p249) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v1.3.5, ruby-1.8.7-p249) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sqlite3 (v1.3.4, ruby-1.8.7-p249) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="uglifier (v1.1.0, ruby-1.8.7-p249) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-rails (v3.1.1, ruby-1.8.7-p249) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="uglifier (v1.1.0, ruby-1.8.7-p249) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.17.2, ruby-1.8.7-p249) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-mount (v0.8.3, ruby-1.8.7-p249) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="execjs (v1.2.9, ruby-1.8.7-p249) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.1, ruby-1.8.7-p249) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sass-rails (v3.1.5, ruby-1.8.7-p249) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="execjs (v1.2.9, ruby-1.8.7-p249) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="coffee-script (v2.2.0, ruby-1.8.7-p249) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sass-rails (v3.1.5, ruby-1.8.7-p249) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activerecord (v3.1.0, ruby-1.8.7-p249) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sprockets (v2.0.3, ruby-1.8.7-p249) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="will_paginate (v3.0.2, ruby-1.8.7-p249) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="tilt (v1.3.3, ruby-1.8.7-p249) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="sprockets (v2.0.3, ruby-1.8.7-p249) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tzinfo (v0.3.31, ruby-1.8.7-p249) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rdoc (v3.11, ruby-1.8.7-p249) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tilt (v1.3.3, ruby-1.8.7-p249) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activeresource (v3.1.0, ruby-1.8.7-p249) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sass (v3.1.11, ruby-1.8.7-p249) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="turn (v0.8.3, ruby-1.8.7-p249) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.0.4, ruby-1.8.7-p249) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activemodel (v3.1.0, ruby-1.8.7-p249) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bcrypt-ruby (v3.0.1, ruby-1.8.7-p249) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.0.4, ruby-1.8.7-p249) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jquery-rails (v1.0.19, ruby-1.8.7-p249) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="json (v1.6.3, ruby-1.8.7-p249) [gem]" level="application" />
   </component>

@@ -1,3 +1,1 @@
-This is a test file
-and another line
-This was made on the master branch
+<html><body>You are being <a href="http://localhost:3000/login?locale=en">redirected</a>.</body></html>
